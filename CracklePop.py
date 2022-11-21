@@ -6,4 +6,4 @@ for number in range(101):
    elif number % 5 == 0:
     print('Pop')
    else:
-    git print(number)
+    print(number)
